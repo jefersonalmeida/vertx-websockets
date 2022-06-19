@@ -18,7 +18,7 @@ val vertxVersion = "4.3.1"
 val junitJupiterVersion = "5.8.2"
 val logbackVersion = "1.2.11"
 
-val mainVerticleName = "com.jefersonalmeida.vertx.vertx_websockets.MainVerticle"
+val mainVerticleName = "com.jefersonalmeida.vertx.websockets.MainVerticle"
 val launcherClassName = "io.vertx.core.Launcher"
 
 val watchForChange = "src/**/*"

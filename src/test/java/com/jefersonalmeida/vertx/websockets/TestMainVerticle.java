@@ -1,4 +1,4 @@
-package com.jefersonalmeida.vertx.vertx_websockets;
+package com.jefersonalmeida.vertx.websockets;
 
 import io.vertx.core.Vertx;
 import io.vertx.junit5.VertxExtension;
